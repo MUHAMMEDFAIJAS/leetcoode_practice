@@ -1,3 +1,5 @@
+// remove duplicate from sorted list
+
 class Solution {
   List<int> expectedNums = [];
   int A = 1;
